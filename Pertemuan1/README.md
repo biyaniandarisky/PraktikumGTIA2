@@ -13,12 +13,21 @@
 TUGAS
 1. GL_LINE_STRIP dan GL_LINE_LOOP
    perbedaanya, GL_LINE_STRIP menghubungkan setiap titik secara berurutan dan        tidak menutup kembali ke titik pertamanya. Jadi garis berhenti di titik           terakhir. Sedangkan GL_LINE_LOOP menghubungkan titik secara berurutan tetapi      titik terakhir dihubungkan kembali ke titik pertama seperti membentuk loop.
+   
    a. GL_LINE_STRIP
-      kode = <img width="346" height="491" alt="line_strip code" src="https://github.com/user-attachments/assets/61d0f39d-2117-4db8-88ff-d59991908a12" />
+   
+      kode 
+   
+   <img width="346" height="491" alt="line_strip code" src="https://github.com/user-attachments/assets/61d0f39d-2117-4db8-88ff-d59991908a12" />
+      
       hasil = <img width="639" height="496" alt="line_strip" src="https://github.com/user-attachments/assets/3e26e812-4ec2-4377-8e15-0efea876c3dc" />
 
    b. GL_LINE_LOOP
-      kode = <img width="347" height="450" alt="line_loop code" src="https://github.com/user-attachments/assets/c677a136-0cd6-48ce-8a30-24f51f93d82c" />
+   
+      kode
+
+    <img width="347" height="450" alt="line_loop code" src="https://github.com/user-attachments/assets/c677a136-0cd6-48ce-8a30-24f51f93d82c" />
+      
       hasil = <img width="600" height="432" alt="line_loop" src="https://github.com/user-attachments/assets/542eef62-ad49-434f-8d99-47503a6c9fab" />
 
 
