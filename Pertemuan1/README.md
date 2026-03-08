@@ -12,6 +12,7 @@
 
 TUGAS
 1. GL_LINE_STRIP dan GL_LINE_LOOP
+
    perbedaanya, GL_LINE_STRIP menghubungkan setiap titik secara berurutan dan        tidak menutup kembali ke titik pertamanya. Jadi garis berhenti di titik           terakhir. Sedangkan GL_LINE_LOOP menghubungkan titik secara berurutan tetapi      titik terakhir dihubungkan kembali ke titik pertama seperti membentuk loop.
    
    a. GL_LINE_STRIP
