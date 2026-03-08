@@ -10,3 +10,41 @@
 4. Membuat Segiempat Penuh
    <img width="641" height="511" alt="segiempat" src="https://github.com/user-attachments/assets/4db768df-2400-408e-abc5-98f4f69c759f" />
 
+TUGAS
+1. GL_LINE_STRIP dan GL_LINE_LOOP
+   perbedaanya, GL_LINE_STRIP menghubungkan setiap titik secara berurutan dan        tidak menutup kembali ke titik pertamanya. Jadi garis berhenti di titik           terakhir. Sedangkan GL_LINE_LOOP menghubungkan titik secara berurutan tetapi      titik terakhir dihubungkan kembali ke titik pertama seperti membentuk loop.
+   a. GL_LINE_STRIP
+      void GarisStrip(void)
+      {
+          glClear(GL_COLOR_BUFFER_BIT);
+          glColor3f(1.0f, 0.0f, 0.0f);
+          glBegin(GL_LINE_STRIP);
+              glVertex3f(-0.20, -0.10, 0.0);
+              glVertex3f(-0.10, 0.10, 0.0);
+              glVertex3f(0.00, -0.10, 0.0);
+              glVertex3f(0.10, 0.10, 0.0);
+              glVertex3f(0.20, -0.10, 0.0);
+          glEnd();
+          glFlush();
+      }
+      hasil = <img width="639" height="496" alt="line_strip" src="https://github.com/user-attachments/assets/3e26e812-4ec2-4377-8e15-0efea876c3dc" />
+
+   b. GL_LINE_LOOP
+      void display(void)
+      {
+         glClear(GL_COLOR_BUFFER_BIT);
+         glColor3f(1.0, 1.0, 1.0); 
+         glBegin(GL_LINE_LOOP);
+            glVertex2f(-0.5, -0.5);
+            glVertex2f(0.5, -0.5);
+            glVertex2f(0.5, 0.5);
+            glVertex2f(-0.5, 0.5);
+         glEnd();
+         glFlush();
+      }
+      hasil = <img width="600" height="432" alt="line_loop" src="https://github.com/user-attachments/assets/542eef62-ad49-434f-8d99-47503a6c9fab" />
+
+
+
+   
+
