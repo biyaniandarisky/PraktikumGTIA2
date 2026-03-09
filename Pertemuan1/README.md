@@ -71,6 +71,16 @@ TUGAS
 
    hasil = <img width="601" height="430" alt="quad_strip" src="https://github.com/user-attachments/assets/f53d7187-3469-4fa8-aba7-e20bf296418d" />
 
+4. GAMBAR KUBUS BERTINGKAT
+
+   kode
+
+   <img width="248" height="483" alt="objek kubus code" src="https://github.com/user-attachments/assets/26695e57-a4d4-4fe4-87b4-2628939629f2" />
+
+   hasil = <img width="600" height="431" alt="objek kubus" src="https://github.com/user-attachments/assets/4d3d35d2-1bbb-4f5b-9bea-90f7d1a1599b" />
+
+
+
 
 
 
