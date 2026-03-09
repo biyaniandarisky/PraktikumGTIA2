@@ -31,6 +31,30 @@ TUGAS
       
       hasil = <img width="600" height="432" alt="line_loop" src="https://github.com/user-attachments/assets/542eef62-ad49-434f-8d99-47503a6c9fab" />
 
+2. GL_TRIANGLE_FAN dan GL_TRIANGLE_STRIP
+
+   GL_TRIANGLES untuk membuat segitiga-segitiga yang berdiri sendiri (tidak saling terhubung). Setiap tiga vertex akan membentuk satu segitiga. Kalau GL_TRIANGLE_FAN digunakan untuk membuat segitiga yang menyebar dari satu titik pusat. Vertex pertama menjadi titik pusat, lalu semua vertex berikutnya terhubung dengan titik tersebut. Setelah dua vertex pertama, setiap vertex tambahan akan membentuk segitiga baru yang berbagi titik pusat yang sama.Sedangkan GL_TRIANGLE_STRIP untuk membuat rangkaian segitiga yang saling terhubung. Setelah dua vertex pertama, setiap vertex baru yang ditambahkan akan membentuk satu segitiga baru bersama dua vertex sebelumnya sehingga membentuk pola zig zag
+
+   a. GL_TRIANGLE_FAN
+
+   kode
+   
+   <img width="300" height="483" alt="triagle_fan code" src="https://github.com/user-attachments/assets/57ccfe17-bd19-4c04-9f2f-59f3799b796a" />
+   
+   hasil = <img width="601" height="431" alt="triagle_fan" src="https://github.com/user-attachments/assets/b954fe90-b1b6-4c3f-89b1-9ab0ac2b3be7" />
+
+   b. GL_TRIANGLE_STRIP
+
+   kode
+   
+   <img width="296" height="511" alt="triagle_strip code" src="https://github.com/user-attachments/assets/ad72c995-01cb-48fb-a667-ad3e127eb142" />
+   
+   hasil = <img width="600" height="431" alt="triagle_strip" src="https://github.com/user-attachments/assets/9637daf5-5834-4889-841f-b6867d48b646" />
+
+
+
+
+
 
 
    
