@@ -51,6 +51,30 @@ TUGAS
    
    hasil = <img width="600" height="431" alt="triagle_strip" src="https://github.com/user-attachments/assets/9637daf5-5834-4889-841f-b6867d48b646" />
 
+3. GL_QUAD dan GL_QUAD_STRIP
+   
+   GL_QUADS digunakan untuk membuat segi empat yang terpisah. Setiap 4 vertex = 1 quad (persegi/persegi panjang). GL_QUAD_STRIP membuat deretan segi empat yang saling terhubung. Setiap pasangan vertex baru akan menambah satu quad.
+   
+   a. GL_QUAD
+
+   kode
+
+   <img width="307" height="509" alt="quad code png " src="https://github.com/user-attachments/assets/d258e8a6-3296-4021-95f5-ad1b44be3003" />
+
+   hasil = <img width="602" height="430" alt="quad" src="https://github.com/user-attachments/assets/f9c4061f-ef27-4e98-ac2b-cac8513b570e" />
+
+   b. GL_QUAD_STRIP
+   
+    kode
+
+   <img width="303" height="502" alt="quad_strip code" src="https://github.com/user-attachments/assets/c0409833-16f5-459a-80ff-a0eca0b1ce12" />
+
+   hasil = <img width="601" height="430" alt="quad_strip" src="https://github.com/user-attachments/assets/f53d7187-3469-4fa8-aba7-e20bf296418d" />
+
+
+
+
+
 
 
 
