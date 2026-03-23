@@ -18,7 +18,7 @@
 
    - kontrol keyboard
      
-     <img width="219" height="303" alt="kontrol keyboard" src="https://github.com/user-attachments/assets/188b4b2d-c525-4c9b-8a13-15a0fbaeba8e" />
+     <img width="263" height="471" alt="image" src="https://github.com/user-attachments/assets/5fc18c5b-e20f-4e5b-9a5f-0956a0bc7c47" />
 
    <img width="805" height="632" alt="lengan + jari" src="https://github.com/user-attachments/assets/4f65b095-dd26-46bb-aa38-4880e4408b93" />
 
