@@ -1,3 +1,13 @@
+1. Proyeksi
+
+   <img width="303" height="330" alt="image" src="https://github.com/user-attachments/assets/1396c3fe-f5c4-4ff2-8b58-dc8c26043378" />
+
+2. Kubus berotasi
+
+   <img width="304" height="332" alt="image" src="https://github.com/user-attachments/assets/9bf054e4-b9ab-40bf-8744-3536897bdeaa" />
+
+
+**TUGAS**
 1. Cara kerja lengan bergerak
    bagian lengan terdiri dari shoulder, lengan atas, siku, lengan bawah. Jika shoulder bergerak, seluruh lengan ikut bergerak. Tetapi jika siku yang bergerak, hanya lengan bawah yang ikut gerak.
    - menggunakan translasi untuk memindahkan pivot
