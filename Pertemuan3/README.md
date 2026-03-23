@@ -33,4 +33,20 @@
      
      <img width="605" height="410" alt="image" src="https://github.com/user-attachments/assets/413e5164-d8d1-4fc8-ba3c-fc4bcda19979" />
 
+   - Siku diputar
+
+     <img width="607" height="408" alt="image" src="https://github.com/user-attachments/assets/753ded05-cb3e-4520-bb3e-d35a26423646" />
+
+   - telapak tangan diputar
+
+     <img width="605" height="411" alt="image" src="https://github.com/user-attachments/assets/3b93a360-b161-4628-83ef-fbf9df356300" />
+
+   - jari diputar
+
+     <img width="601" height="412" alt="image" src="https://github.com/user-attachments/assets/2818923a-40ca-4c1d-ba7c-2ec208d9ec73" />
+
+
+     
+
+     
 
