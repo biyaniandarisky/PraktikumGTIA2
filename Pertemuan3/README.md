@@ -1,0 +1,62 @@
+1. Proyeksi
+
+   <img width="303" height="330" alt="image" src="https://github.com/user-attachments/assets/1396c3fe-f5c4-4ff2-8b58-dc8c26043378" />
+
+2. Kubus berotasi
+
+   <img width="304" height="332" alt="image" src="https://github.com/user-attachments/assets/9bf054e4-b9ab-40bf-8744-3536897bdeaa" />
+
+
+**TUGAS**
+1. Cara kerja lengan bergerak
+   bagian lengan terdiri dari shoulder, lengan atas, siku, lengan bawah. Jika shoulder bergerak, seluruh lengan ikut bergerak. Tetapi jika siku yang bergerak, hanya lengan bawah yang ikut gerak.
+   - menggunakan translasi untuk memindahkan pivot
+   - menggunakan rotasi untuk memutar sendi
+   - menggunakan scale untuk membentuk lengan
+   - pergerakan menggunakan inputan keyboard user
+   
+   Struktur : Shoulder -> Lengan Atas -> Siku -> Lengan Bawah
+
+2. Menambahkan telapak tangan beserta jari-jari dari lengan di atas
+   - menambahkan objek wrist dan finger1-5
+     
+     <img width="148" height="86" alt="nambah objek" src="https://github.com/user-attachments/assets/d9c0fd74-57ff-4cf6-8fb0-ea907a060b6a" />
+
+   - membuat objeknya
+     
+     <img width="236" height="546" alt="buat objek" src="https://github.com/user-attachments/assets/d1387730-1265-4fce-a4c0-1b102106895d" />
+
+   - kontrol keyboard
+     
+     <img width="263" height="471" alt="image" src="https://github.com/user-attachments/assets/5fc18c5b-e20f-4e5b-9a5f-0956a0bc7c47" />
+
+   <img width="805" height="632" alt="lengan + jari" src="https://github.com/user-attachments/assets/4f65b095-dd26-46bb-aa38-4880e4408b93" />
+
+3. Simulasi menggunakan sumbu x,y,z bagaimana operasi yang dilakukan ketika keyboard di ketik
+   - rotasi pada program menggunakan glRotatef(angle, 0, 0, 1) artinya rotasi terhadap sumbu Z, sehingga gerakan terjadi pada bidang X-Y. Simulasi dilakukan menggunakan grid sebagai milimeter block dan sumbu koordinat X, Y. Sumbu X berwarna merah, sumbu Y berwarna hijau
+     
+   - Posisi awal
+     
+     <img width="606" height="410" alt="image" src="https://github.com/user-attachments/assets/49d1aa30-b908-4647-bef2-232dc036fb28" />
+
+   - Shoulder diputar
+     
+     <img width="605" height="410" alt="image" src="https://github.com/user-attachments/assets/413e5164-d8d1-4fc8-ba3c-fc4bcda19979" />
+
+   - Siku diputar
+
+     <img width="607" height="408" alt="image" src="https://github.com/user-attachments/assets/753ded05-cb3e-4520-bb3e-d35a26423646" />
+
+   - telapak tangan diputar
+
+     <img width="605" height="411" alt="image" src="https://github.com/user-attachments/assets/3b93a360-b161-4628-83ef-fbf9df356300" />
+
+   - jari diputar
+
+     <img width="601" height="412" alt="image" src="https://github.com/user-attachments/assets/2818923a-40ca-4c1d-ba7c-2ec208d9ec73" />
+
+
+     
+
+     
+
