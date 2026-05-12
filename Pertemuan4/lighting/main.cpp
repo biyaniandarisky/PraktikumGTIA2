@@ -252,7 +252,7 @@ int main(int argc, char **argv)
   glutInitDisplayMode(GLUT_DEPTH | GLUT_DOUBLE | GLUT_RGBA);  
   glutInitWindowPosition(100,100);  
   glutInitWindowSize(640,480);  
-  glutCreateWindow("3D Lighting");  
+  glutCreateWindow("BIyani Andarisky MAratia");  
   glutIgnoreKeyRepeat(1); // Mengabaikan key repeat (saat tombol keyboard dipencet terus)  
   glutSpecialFunc(pressKey); 
   glutSpecialUpFunc(releaseKey);  

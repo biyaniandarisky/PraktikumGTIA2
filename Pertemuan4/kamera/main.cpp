@@ -92,7 +92,7 @@ int main(int argc, char** argv) {
         GLUT_RGB       // RGB color
     );
 
-    glutCreateWindow("GLUT Example");
+    glutCreateWindow("Biyani Andarisky MAratia");
 
     glutDisplayFunc(display);
     glutKeyboardFunc(keyboard);
