@@ -8,6 +8,8 @@
 
 3. Mobil 3D
 
-   <img width="1812" height="12374" alt="image" src="https://github.com/user-attachments/assets/b198aadb-6955-401b-b613-20833785693c" />
-   <img width="799" height="630" alt="image" src="https://github.com/user-attachments/assets/7e62d87a-577a-4da2-8e51-5d8e20085f22" />
+  <img width="1812" height="14310" alt="image" src="https://github.com/user-attachments/assets/e90d8fe0-49c8-4861-b01b-86c4afa93192" />
+
+   <img width="798" height="627" alt="image" src="https://github.com/user-attachments/assets/fb678163-cc00-4fea-9775-989322267836" />
+
 
